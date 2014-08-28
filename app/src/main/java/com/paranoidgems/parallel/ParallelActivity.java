@@ -1,12 +1,12 @@
 package com.paranoidgems.parallel;
 
-import android.app.Activity;
+import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class ParallelActivity extends Activity {
+public class ParallelActivity extends FragmentActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
